@@ -17,7 +17,7 @@ This repository includes several sets of instructions. Each set corresponds to a
 7. **Deployment**: Use the Deployment Instructions to set up the app for release.
 
 ## Project Milestones and Schedule
-- **Daily Standup**: Every Monday, Tuesday, and Thursday @ 5:00 PM
+- **Daily Standup**: Every Monday @3:30 PM , Tuesday @5:00 PM, and Thursday @ 9:00 PM
 - **10/1**: Project Setup and Sprint 0 Planning
 - **10/8**: Sprint 0 - App Map, Wireframe, and Prototype Deadline
 - **10/10**: Sprint 0 Project Setup and Sprint 1 Planning

@@ -32,3 +32,36 @@ To contribute to this project, please refer to our [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Prototype and Wireframe
 You can find the latest prototype and wireframe designs for TripTease here: [TripTease Prototype](https://www.figma.com/team_invite/redeem/fzXSEKN6dldk3lug3zAODf)
+## CONTRIBUTING.md
+## Team Members
+- **Rena Wang**: [GitHub Profile](https://github.com/nomegustaexam)
+- **Shay Butler**: [GitHub Profile](https://github.com/hawk-2414)
+- **Chris Bobadilla**: [GitHub Profile](https://github.com/chrisbobadilla)
+- **Makenzie Jones**: [GitHub Profile](https://github.com/m4kenziejones)
+
+## Project Instructions
+This repository includes several sets of instructions. Each set corresponds to a different phase of the project, with its own requirements and deadlines:
+
+1. **App Map & Wireframes**: See the App Map & Wireframes and Prototyping instructions for the initial user experience design.
+2. **Project Setup**: Replace the contents of this file with a proper README.md, as outlined in the Project Setup Instructions.
+3. **Sprint Planning**: Follow the Sprint Planning Instructions for each sprint.
+4. **Front-End Development**: Refer to the Front-End Development Instructions for implementing the initial UI components.
+5. **Back-End Development**: See the Back-End Development Instructions for server-side implementation.
+6. **Database Integration**: Follow the Database Integration Instructions for connecting and managing data.
+7. **Deployment**: Use the Deployment Instructions to set up the app for release.
+
+## Project Milestones and Schedule
+- **Daily Standup**: Every Monday @3:30 PM , Tuesday @5:00 PM, and Thursday @ 9:00 PM
+- **10/1**: Project Setup and Sprint 0 Planning
+- **10/8**: Sprint 0 - App Map, Wireframe, and Prototype Deadline
+- **10/10**: Sprint 0 Project Setup and Sprint 1 Planning
+- **10/31**: Sprint 1 Completion, Stakeholder Demo, Sprint 1 Feedback, Sprint 2 Planning
+- **11/14**: Sprint 2 Completion, Sprint 2 Feedback, Stakeholder Demo, Sprint 3 Planning
+- **12/3**: Sprint 3 Completion, Sprint 3 Feedback, Stakeholder Demo, Sprint 4 Planning, Database Integration
+- **12/12**: Sprint 4 Completion, Project Presentations, Sprint 4 Feedback
+
+## Building and Testing Instructions
+Instructions for building and testing the project will be provided once we reach the appropriate stages of development. Stay tuned for updates.
+
+
+
